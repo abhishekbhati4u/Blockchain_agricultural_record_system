@@ -1,2 +1,7 @@
 # Blockchain_agricultural_record_system
-This is a simple agricultural record system that I made along with my batch mates, Shivam Goel and Kushagra Aggarwal for our Minor Project in 5th Semester.
+
+“Blockchain Based Agricultural Record System”
+
+This is a simple agricultural record system based on blockchain that I along with my batch mates, Shivam Goel and Kushagra Aggarwal developed for our Minor Project in 5th Semester.
+
+The "code.cpp" file has the main code of the project while the "Serv.py" and "Clien.py" file help in the simulation of data transfer between the virtual nodes. The detailed description of the project with its working and expected outputs can be found in the "Minor Project 1 Report" file.
